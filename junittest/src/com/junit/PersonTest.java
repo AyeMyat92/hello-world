@@ -11,7 +11,7 @@ public class PersonTest {
 		 Person person = new Person("Josh", "aaa");
 	       String displayName = person.getDisplayName();
 	       System.out.println(displayName);
-	       assertEquals("aa", Josh", displayName);	
+	       assertEquals("1111", Josh", displayName);	
 	       }
 
 }
